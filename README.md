@@ -1,2 +1,2 @@
-# <a href="https://afoninis.github.io/Hungry/">Посмотреть</a>
+# <a href="https://steelaura.github.io/Hungry/">Посмотреть</a>
 Hungry Landing (non-adaptive)
